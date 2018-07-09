@@ -1,4 +1,4 @@
-theme: jekyll-theme-slate
+theme: jekyll-theme-cayman
 url: https://georgeganea.com
 defaults:
   -
@@ -7,3 +7,5 @@ defaults:
       type: "posts" # previously `post` in Jekyll 2.2.
     values:
       layout: "default"
+title: George Ganea
+description: A Java dev lost in Pharo land
