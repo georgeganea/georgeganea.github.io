@@ -13,7 +13,7 @@ Mainly because [Feenk](https://feenk.com/) convinced me to join them. Am very gl
 Oh, because I want to document my learning experience in Pharo land. I'm hoping this will not only help others learn Pharo but also influence the development of Pharo itself.
 
 ### Isn't Pharo basically Smalltalk?
-Yes, Pharo does come from Smalltalk, but Pharo is both the programming language and the environment. And it is actively maintained, and it has a great community https://pharo.org/community.
+Yes, Pharo does come from Smalltalk, but Pharo is both the programming language and the environment. And it is actively maintained, and it has a great community - [pharo.org/community](https://pharo.org/community).
 
 ### Ok great, tell me more!
 No. I mean yes, but next post. I'd like to keep posts quick to read. So this is it for now, bye!
